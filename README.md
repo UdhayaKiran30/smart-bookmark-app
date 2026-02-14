@@ -91,8 +91,8 @@ npm install
 Add:
 
 ```
-NEXT_PUBLIC_SUPABASE_URL=your_url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_key
+NEXT_PUBLIC_SUPABASE_URL=https://elijzofszycsbxeberde.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVsaWp6b2Zzenljc2J4ZWJlcmRlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzA5MDUxNDksImV4cCI6MjA4NjQ4MTE0OX0.55NnQjuBIG2jxRNgr-mdVWqauYwggTDRGTsLsJPnj9Q
 ```
 
 ### 4️⃣ Run development server
@@ -188,13 +188,8 @@ Pulled remote changes and merged before pushing updates.
 
 ## 📌 Author
 
-**Your Name**
-GitHub: https://github.com/your-username
+**Udhaya Kiran**
+GitHub: https://github.com/UdhayaKiran30
 
 ---
 
-## ⭐ Acknowledgements
-
-Thanks to the official documentation and developer tools that helped me understand modern full-stack workflows.
-
----
